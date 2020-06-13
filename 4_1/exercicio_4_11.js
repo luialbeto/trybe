@@ -1,0 +1,1 @@
+//descontados de seu salário bruto o INSS e o IR//
